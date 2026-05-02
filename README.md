@@ -24,4 +24,4 @@ Professional-grade UI/UX with dark mode, responsive design, and smooth interacti
 Fully automated development and deployment workflow.
 
 
-# Sonal Kumar Mehta
+# Sonal Kumar
